@@ -1,4 +1,4 @@
-package summer.stringLevel1;
+package stringLevel1;
 import java.util.*;
 public class Pallindrome {
     public static void main(String[] args)

@@ -1,3 +1,5 @@
+package assignment_28_05_2020;
+
 public class methodQuestion2 {
     int a=1,b=2,c=3;
     public static void main(String[] args)

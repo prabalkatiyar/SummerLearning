@@ -1,3 +1,5 @@
+package assignment_28_05_2020;
+
 import java.util.Scanner;
 public class question2
 {

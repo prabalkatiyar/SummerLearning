@@ -1,3 +1,5 @@
+package stringLevel1;
+
 import java.util.Scanner;
 
 public class lexicographic

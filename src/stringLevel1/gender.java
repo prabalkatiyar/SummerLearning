@@ -1,4 +1,4 @@
-package summer.stringLevel1;
+package stringLevel1;
 import java.util.*;
 public class gender {
     public static void main(String[] args)
